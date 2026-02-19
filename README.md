@@ -3,4 +3,4 @@ learning git
 
 # hello 
 HELLO WORLD
-HELLO   hello YOU ALL
+HELLO  how hello YOU ALL
